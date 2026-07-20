@@ -18,7 +18,7 @@ import re
 # TOKEN Y CONFIGURACIÓN
 # ============================================
 
-TOKEN = "8883288881:AAHPljtelhxRNtK_RLYWv8CoaPg5qFatZRI"
+TOKEN = "8944900785:AAF81FVJmzKnjSMHhsHZapPbxMFKZ1zaMuY"
 ADMIN_ID = 8768008680  # Tu ID de administrador
 
 bot = telebot.TeleBot(TOKEN)
